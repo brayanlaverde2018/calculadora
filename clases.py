@@ -23,3 +23,5 @@ print("El coche tiene: ",miCoche.ruedas,"ruedas")
 miCoche.arrancar()
 
 print(miCoche.estado())
+
+print("A continuación esta el segundo objeto")
